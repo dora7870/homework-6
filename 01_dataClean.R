@@ -34,7 +34,7 @@ ggsave("barchart_occu.png")
 b<-ggplot(iDat, aes(x = income, y = hours.per.week, color = income)) +
   scale_color_manual(values=c("#66CCFF", "#3333FF")) +
   geom_jitter()
-ggsave("stripplot_incomebyinage.png")
+ggsave("stripplot_incomebyhour.png")
 
 ## replace specific age with agelevels
 range(iDat$age)
