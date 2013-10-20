@@ -7,4 +7,14 @@ homework-6
    * Open `master.R` in RStudio and click on "Source".
    * New files you should see after running the pipeline:
 -    - [`barchart_occu.png`](https://github.com/dora7870/homework-6/blob/master/barchart_occu.png)
--    - [`stripplot_incomeHour.png`](
+-    - [`stripplot_incomeHour.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_incomeHour.png)
+-    - [`barchart_ageCount.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_barchart_ageCount.png)
+-    - [`stripplot_ageHourBySex.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_stripplot_ageHourBySex.png)
+-    - [`stripplot_occuHourByAge.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_stripplot_occuHourByAge.png)
+-    - [`stripplot_incomeByHours_Middle-aged.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_incomeByHours_Middle-aged.png)
+-    - [`stripplot_incomeByHours_Senior.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_incomeByHours_Senior.png)
+-    - [`stripplot_incomeByHours_Young.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_incomeByHours_Young.png)
+-    - [`income_clean1.tsv`](https://github.com/dora7870/homework-6/blob/master/income_clean1.tsv)
+-    - [`income_clean2.tsv`](https://github.com/dora7870/homework-6/blob/master/income_clean2.tsv)
+-    - [`income_glmFit.tsv`](https://github.com/dora7870/homework-6/blob/master/income_glmFit.tsv)
+-    - [`income_glmFit_someOccup.tsv`](https://github.com/dora7870/homework-6/blob/master/income_glmFit_someOccup.tsv)
