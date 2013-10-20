@@ -18,13 +18,13 @@ iDat <- within(iDat, age <- reorder(age, hours.per.week, max))
 b <- ggplot(iDat, aes(x = age, y = hours.per.week, color = income)) + 
   geom_jitter(alpha = 0.6, position = position_jitter(width = 0.1)) +
   scale_color_manual(values = c("#0066CC", "#FF9900"))
-  facet_wrap(~sex)
+  facet_wrap(~ sex)
 ggsave("stripplot_agehourbysex.png")
 
 ## make a plot of hours per week on occupation within age
 c <- ggplot(iDat, aes(x = occupation, y = hours.per.week, color = income)) + 
   geom_jitter(alpha = 0.6, position = position_jitter(width = 0.1)) +
-  facet_wrap(~age)
+  facet_wrap(~ age)
 ggsave("stripplot_occuhourbyage.png")
 
 ## reorder data
