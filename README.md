@@ -8,9 +8,9 @@ homework-6
    * New files you should see after running the pipeline:
 -    - [`barchart_occu.png`](https://github.com/dora7870/homework-6/blob/master/barchart_occu.png)
 -    - [`stripplot_incomeHour.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_incomeHour.png)
--    - [`barchart_ageCount.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_barchart_ageCount.png)
--    - [`stripplot_ageHourBySex.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_stripplot_ageHourBySex.png)
--    - [`stripplot_occuHourByAge.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_stripplot_occuHourByAge.png)
+-    - [`barchart_ageCount.png`](https://github.com/dora7870/homework-6/blob/master/barchart_ageCount.png)
+-    - [`stripplot_ageHourBySex.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_ageHourBySex.png)
+-    - [`stripplot_occuHourByAge.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_occuHourByAge.png)
 -    - [`stripplot_incomeByHours_Middle-aged.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_incomeByHours_Middle-aged.png)
 -    - [`stripplot_incomeByHours_Senior.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_incomeByHours_Senior.png)
 -    - [`stripplot_incomeByHours_Young.png`](https://github.com/dora7870/homework-6/blob/master/stripplot_incomeByHours_Young.png)
